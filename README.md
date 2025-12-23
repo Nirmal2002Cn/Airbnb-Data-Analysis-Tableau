@@ -25,15 +25,6 @@ The dashboard includes:
 
 ---
 
-## 📁 Project Files
-
-- `dashboard/Airbnb_Dashboard.twbx` – Tableau packaged dashboard  
-- `data/airbnb_dataset.csv` – Dataset used for analysis  
-- `images/dashboard_preview.png` – Dashboard screenshot  
-
----
-
-
 
 ## 🎯 Purpose of the Project
 
