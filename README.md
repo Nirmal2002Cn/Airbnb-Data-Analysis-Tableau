@@ -33,11 +33,7 @@ The dashboard includes:
 
 ---
 
-## 📸 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
-
----
 
 ## 🎯 Purpose of the Project
 
@@ -62,5 +58,4 @@ This project was created to:
 Undergraduate – BSc in Information & Communication Technology  
 Uva Wellassa University of Sri Lanka  
 
-🔗 GitHub: https://github.com/your-username  
-🔗 LinkedIn: https://linkedin.com/in/your-link
+
